@@ -24,7 +24,7 @@ This dashboard helps provide insights for improving inventory planning, staffing
 
 ---
 
-####Key Insights
+#### Key Insights
 
 - Peak ordering hours occur during the afternoon and evening.
 - A few pizza products contribute significantly to total revenue.
