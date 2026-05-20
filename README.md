@@ -32,6 +32,4 @@ This dashboard helps provide insights for improving inventory planning, staffing
 - Customers commonly order multiple pizzas per transaction.
 - Certain dates experience unusually high order activity.
 
----
-![Dashboard Preview](images/dashboard.png)
 ---<img width="1338" height="734" alt="pizza place sales 11_20_2025 2_58_52 PM" src="https://github.com/user-attachments/assets/90962d99-989c-4fa4-bd11-352452096ebf" />
