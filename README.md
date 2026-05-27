@@ -38,7 +38,7 @@ This dashboard helps provide insights for improving inventory planning, staffing
 - Run promotional campaigns during low-sales periods.
 - Bundle frequently ordered pizzas to increase average order value.
 
-That section makes you sound like a real anal
+
 
 <img width="1338" height="734" alt="pizza place sales 11_20_2025 2_58_52 PM" src="https://github.com/user-attachments/assets/90962d99-989c-4fa4-bd11-352452096ebf" />
 #### Tools & Skills Used
