@@ -41,6 +41,7 @@ This dashboard helps provide insights for improving inventory planning, staffing
 
 
 <img width="1338" height="734" alt="pizza place sales 11_20_2025 2_58_52 PM" src="https://github.com/user-attachments/assets/90962d99-989c-4fa4-bd11-352452096ebf" />
+
 #### Tools & Skills Used
 
 - Power BI
